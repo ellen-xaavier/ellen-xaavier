@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/5738206175842789141" width="150" />
+  <img src="https://media.giphy.com/media/8YvLqXmJm4x4zI8h4N/giphy.gif" width="150" />
   <h1>Olá! Sou a Ellen 👋</h1>
   <p>Bem-vindo(a) ao meu perfil!</p>
 </div>
