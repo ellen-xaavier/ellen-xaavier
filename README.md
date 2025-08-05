@@ -8,7 +8,7 @@
 
 ### Sobre mim
 
-💻 Estou no quarto semestre de **Marketing Digital e Inteligência de Dados** e sou apaixonada por unir criatividade com tecnologia. Tenho interesse em **desenvolvimento de projetos**, **programação**, **criação de conteúdo para redes sociais** e, especialmente, na interseção entre **mídias digitais** e **design**.
+💻 Estou no terceiro semestre de **Marketing Digital e Inteligência de Dados** e sou apaixonada por unir criatividade com tecnologia. Tenho interesse em **desenvolvimento de projetos**, **programação**, **criação de conteúdo para redes sociais** e, especialmente, na interseção entre **mídias digitais** e **design**.
 
 💡 Tenho noções em **Python** e adoro usar minhas habilidades em **design digital** para criar soluções visuais e funcionais. Meu objetivo é transformar ideias em projetos que impactam positivamente.
 
