@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGcxMHV2bXVzajdtbXNuc3g4M2ZpY2VwOG1pZ3UxaWhkb2VtdTRjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L88Wz7QhG2d8b4sBvP/giphy.gif](http://googleusercontent.com/image_collection/image_retrieval/17329355305800381938_0)" width="150" />
+  <img src="<img src="http://googleusercontent.com/image_collection/image_retrieval/17329355305800381938_0" width="150" />" width="150" />
   <h1>Olá! Sou a Ellen 👋</h1>
   <p>Bem-vindo(a) ao meu perfil!</p>
 </div>
