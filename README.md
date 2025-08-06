@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI4bGd6NXVraWIwNWdxN2o4bnYwdGVza21kZHBkOXI3Zno5NjNnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jN86rcdOyrpyo/giphy.gif" width="150" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg4ZHdpOWliZTE5cHJkbGQ5bmVqeTJlenJhM2p0MTFhMjBjaDVqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3P4BWFF6fn0Usw1Ibo/giphy.gif" width="150" />
   <h1>Olá! Sou a Ellen 👋</h1>
   <p>Bem-vindo(a) ao meu perfil!</p>
 </div>
